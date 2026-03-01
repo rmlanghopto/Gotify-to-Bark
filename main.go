@@ -101,7 +101,7 @@ func (f *Forwarder) sendMessage(msg *GotifyMessage) error {
 		"sound":      "minuet",
 		"group":      "Gotify",
 		"icon":       f.iconURL,
-		"url":        f.gotifyHost,
+		// "url":        f.gotifyHost,
 		"device_key": strings.TrimPrefix(f.targetURL, "https://"),
 	}
 
