@@ -13,7 +13,7 @@
                 "-token",
                 "",
                 "-target",
-                "https://
+                "https://"
             ],
             "env": {},
             "showLog": true
