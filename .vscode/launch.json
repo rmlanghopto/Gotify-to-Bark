@@ -9,11 +9,11 @@
             "program": "${workspaceFolder}",
             "args": [
                 "-host",
-                "https://gotify.ddn.pw",
+                "https://",
                 "-token",
-                "C468M.bwd-tVFlF",
+                "",
                 "-target",
-                "https://bark.ddn.pw/57jS4A6RuViLCwCo39UHC9"
+                "https://
             ],
             "env": {},
             "showLog": true
